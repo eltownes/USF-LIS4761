@@ -1,8 +1,7 @@
 # USF-LIS4761
 Introduction to Data & Text Mining
 
-Exploration of a drugs review dataset.
-
+Final Project: exploration of a drugs review dataset.
 
 Refs.
 
