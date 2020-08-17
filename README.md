@@ -3,6 +3,8 @@ Introduction to Data & Text Mining
 
 Final Project: exploration of a drugs review dataset.
 
+YouTube @ https://www.youtube.com/watch?v=LsgtW9J_KdU
+
 Refs.
 
 Drug Review Dataset (Drugs.com) from UC Irvine https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29.
