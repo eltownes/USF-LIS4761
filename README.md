@@ -1,9 +1,14 @@
 # USF-LIS4761
 Introduction to Data & Text Mining
 
-Final Project: exploration of a drugs review dataset.
+Taught at the University of South Florida by Dr. Loni Hagen during the Spring 2020 semester.
 
-YouTube @ https://www.youtube.com/watch?v=LsgtW9J_KdU
+Blog: https://et-lis4761.blogspot.com/
+
+Final Project - exploration of a drugs review dataset.
+
+YouTube: https://www.youtube.com/watch?v=LsgtW9J_KdU
+
 
 Refs.
 
